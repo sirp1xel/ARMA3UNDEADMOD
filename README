@@ -13,9 +13,9 @@ A configured version of the UNDEAD Mod from ArmA 2 for ArmA 3 Beta (Using All In
       by Charon (charon Productions in the BI forums)
       Adaption,modification or external use is not allowed
       
-      VERSION HISTORY :
+      
 
-The Undead V0.84 (31/01/2010):
+The Undead V0.84 (19/07/2013):
 
 - Fixed a bug where female civilians would attempt to pick
   up weapons from dead soldiers which resulted in an arma error
@@ -65,7 +65,7 @@ _ Undead won`t chase a helicopter over the whole map. They will "forget"
   Woodland gasmask mercenary
      
   
-The Undead V0.83 (27/01/2010):
+The Undead V0.83 (27/01/2013):
 
 - Resurrecting undead will now be correctly positioned
   also when they resurrect inside of buildings or bridges
@@ -109,7 +109,7 @@ allowing damage by enemy fire and helicopter crashes
 as well as falling damage and being run over by cars
 
 
-The Undead V0.82 (24/01/2010):
+The Undead V0.82 (24/01/2012):
 
 New functions:
 
